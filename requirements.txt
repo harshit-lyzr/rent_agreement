@@ -1,0 +1,3 @@
+lyzr_automata
+solara
+python-dotenv
